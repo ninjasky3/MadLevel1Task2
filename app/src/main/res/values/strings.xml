@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MadLevel1Task2</string>
+    <string name="what_kind_of_animal_is_this">What kind of Animal is this</string>
+    <string name="species">Species</string>
+    <string name="confirm">Confirm</string>
+    <string name="questionAnswer">tfff</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect, the correct answer is True false false false</string>
+</resources>
